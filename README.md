@@ -13,7 +13,8 @@ This repository contains the refactored files relating to the Horiseon website. 
 <br />
 [Benefit Screenshot](./assets/images/Benefit.jpg)
 <br />
-[Footer Screenshot](./assets/images/Footer.jpg)
+[Footer Screenshot](/assets/images/Footer.jpg)
+
 
 ## Website
 https://mwin1201.github.io/challenge1-Code-Refactor/
