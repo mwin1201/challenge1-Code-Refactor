@@ -8,12 +8,9 @@ This repository contains the refactored files relating to the Horiseon website. 
 
 ## Screenshots
 [Header and Nav Screenshot](assets/images/Header-and-Nav.jpg?raw=true)
-
-[Content Screenshot](assets/images/Content.jpg)
-
-[Benefit Screenshot](assets/images/Benefit.jpg)
-
-[Footer Screenshot](assets/images/Footer.jpg)
+[Content Screenshot](assets/images/Content.jpg?raw=true)
+[Benefit Screenshot](assets/images/Benefit.jpg?raw=true)
+[Footer Screenshot](assets/images/Footer.jpg?raw=true)
 
 
 ## Website
