@@ -1,19 +1,17 @@
-# Code Refactor Challenge
+# Horiseon Website Code Refactoring
 
-# Goals
-- Make sure the Horiseon website meets basic accessibility standards
-- Cleanup redundant code
-- Add helpful comments
+## Overview
+The project's objective is to make the Horiseon website more accessible, ensuring people with disabilities can access the website using assistive technologies such as screen readers.
 
-# User Acceptance Criteria
-GIVEN a webpage meets accessibility standards
-WHEN I view the source code
-THEN I find semantic HTML elements
-WHEN I view the structure of the HTML elements
-THEN I find that the elements follow a logical structure independent of styling and positioning
-WHEN I view the image elements
-THEN I find accessible alt attributes
-WHEN I view the heading attributes
-THEN they fall in sequential order
-WHEN I view the title element
-THEN I find a concise, descriptive title
+## Description
+This repository contains the refactored files relating to the Horiseon website. The project required reordering the CSS stylesheet to align with the content in the index.HTML file, converting div elements into semantic elements, removing excess CSS selectors, adding class and id selectors when appropriate, modifying HTML classes and ids where appropriate, and more.
+
+## Screenshots
+![header and navigation section](./assets/images/Header-and-Nav.jpg)
+![search engine optimization section](./assets/images/Content.jpg)
+![lead generation benefit section](./assets/images/Benefit.jpg)
+![footer section](./assets/images/Footer.jpg)
+
+## Website
+https://mwin1201.github.io/challenge1-Code-Refactor/
+
